@@ -1,5 +1,6 @@
-package com.example.currencyconverter.service;
+package com.example.currencyconverter.service.config;
 
+import com.example.currencyconverter.service.nbp.NbpCurrencyService;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
